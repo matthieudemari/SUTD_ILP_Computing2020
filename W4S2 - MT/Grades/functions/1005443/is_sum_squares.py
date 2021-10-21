@@ -1,0 +1,1 @@
+def is_sum_square

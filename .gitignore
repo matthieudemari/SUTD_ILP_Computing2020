@@ -1,0 +1,8 @@
+**/Recordings
+**/Recordings/
+**/Recordings/*
+**/.ipynb_checkpoints
+**/.ipynb_checkpoints/
+**/.ipynb_checkpoints/*
+*.zip
+*.rar

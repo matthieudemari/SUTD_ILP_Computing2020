@@ -1,0 +1,9 @@
+def how_many_divide(number):
+    counter = 0
+    if (number % 2 == 1):
+        counter = 0
+    while (number%2 ==0):
+        number = number/2
+        counter = counter+1
+        
+    return counter
